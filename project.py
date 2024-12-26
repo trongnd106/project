@@ -116,8 +116,8 @@ def process_file(file_content):
 loadDictionary("dictionary.txt")
 
 # Tạo giao diện người dùng 
-image = Image.open("spell-check.png")  
-st.image(image, width=100)
+image = Image.open("spellc.png")  
+st.image(image, width=80)
 
 st.markdown(
     """
