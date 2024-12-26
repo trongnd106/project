@@ -1,6 +1,4 @@
-# Correct misspelled words using Levenshtein distance that also considers keyboard
-
-## Run
+## Correct misspelled words using Levenshtein distance that also considers keyboard
 
 ### Run demo
 
